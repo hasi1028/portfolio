@@ -77,7 +77,7 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Journey through Life xxx
+### Journey through Life xx
 
 Here is what I did at those places
 
