@@ -79,7 +79,7 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is what I did at those places:
 
 - 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
 - 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
@@ -95,9 +95,10 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family and faith.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- I am Indian, and I speak Telugu
+- Most of my family lives in India, though I still have relatives I meet that live in the U.S
+- I love to spend lots of time with my family becuase they make me laugh 
+- My favorite thing to do with my family is playing cards and going bowling
 
 <comment>
 Gallery of Pics
